@@ -1,41 +1,12 @@
-## Hi there 👋
-# [Company Name] Portfolio
+<h1 align="center"><img src="https://tweet.techmix.club/storage/settings/z8jEX5gN9q2L34Nja7kWctpPqsKDOMModEGry8HS.png" width="250" align="center"> </h1>
 
-Welcome to the [Company Name] portfolio! We provide you with an overview of some of our most notable projects and achievements.
 
-## Notable Projects
-
-### [Project 1]
-
-![Project 1 Image](project1_image.jpg)
-
-Project 1 is a [brief project description] executed using [technologies used]. The project was successfully delivered, and we achieved [results/objectives].
-
-### [Project 2]
-
-![Project 2 Image](project2_image.jpg)
-
-Project 2 is a [brief project description] executed using [technologies used]. The project was successfully delivered, and we achieved [results/objectives].
-
-## How to Contact Us
-
-For more information about our company and projects, please visit our website: [Website Link]
-
-To reach out to us directly, you can contact us via email: [Email Address]
-
-Thank you for visiting our portfolio!
-
----
-
-**[Company Name] - Established [Year of Establishment]**
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23feac00&size=25&center=true&vCenter=true&width=600&height=100&lines=Technology+company;8+years+of+experience;Website+Design+Programming;Mobile+Application+Programming;Bulk+SMS+Service;UX-Ui+Design;Graphic+Design;Software+Testing+&+Quality+Assurance"></a>
+</p>
+    
+ 
+<h2 color="red" align="center"><span style="color: #6525ff;">About Us</span>
+</h2>
+<h4 align="justify">Tweet Tech is a leading company in the field of internet services and mobile application development. We are steadfast in our commitment to delighting our esteemed clients by transforming their visions into captivating and masterful works of art. Our aim is to assist them in achieving their business and marketing goals and spreading them worldwide. Operating within the dynamic sectors of mobile application and web design and development, we understand that innovation and a departure from convention are paramount. Therefore, Tweet Tech has established a distinctive policy that positions us as a frontrunner in this field, both within our local landscape and across the broader Arab region.</h4>
+</div>
